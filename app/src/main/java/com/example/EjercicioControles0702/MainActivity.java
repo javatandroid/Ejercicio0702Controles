@@ -1,4 +1,4 @@
-package com.example.ejercicio0702controles;
+package com.example.EjercicioControles0702;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

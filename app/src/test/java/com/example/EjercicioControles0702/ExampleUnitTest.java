@@ -1,4 +1,4 @@
-package com.example.ejercicio0702controles;
+package com.example.EjercicioControles0702;
 
 import org.junit.Test;
 
